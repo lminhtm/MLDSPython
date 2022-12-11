@@ -1,0 +1,196 @@
+,Country,Continent,Region,DevName,Total
+0,Afghanistan,Asia,Southern Asia,Developing regions,58639.0
+1,Albania,Europe,Southern Europe,Developed regions,15699.0
+2,Algeria,Africa,Northern Africa,Developing regions,69439.0
+3,American Samoa,Oceania,Polynesia,Developing regions,6.0
+4,Andorra,Europe,Southern Europe,Developed regions,15.0
+5,Angola,Africa,Middle Africa,Developing regions,2113.0
+6,Antigua and Barbuda,Latin America and the Caribbean,Caribbean,Developing regions,981.0
+7,Argentina,Latin America and the Caribbean,South America,Developing regions,19596.0
+8,Armenia,Asia,Western Asia,Developing regions,3310.0
+9,Australia,Oceania,Australia and New Zealand,Developed regions,23829.0
+10,Austria,Europe,Western Europe,Developed regions,4985.0
+11,Azerbaijan,Asia,Western Asia,Developing regions,2649.0
+12,Bahamas,Latin America and the Caribbean,Caribbean,Developing regions,808.0
+13,Bahrain,Asia,Western Asia,Developing regions,475.0
+14,Bangladesh,Asia,Southern Asia,Developing regions,65568.0
+15,Barbados,Latin America and the Caribbean,Caribbean,Developing regions,6923.0
+16,Belarus,Europe,Eastern Europe,Developed regions,7975.0
+17,Belgium,Europe,Western Europe,Developed regions,10762.0
+18,Belize,Latin America and the Caribbean,Central America,Developing regions,1083.0
+19,Benin,Africa,Western Africa,Developing regions,2852.0
+20,Bhutan,Asia,Southern Asia,Developing regions,5876.0
+21,Bolivia (Plurinational State of),Latin America and the Caribbean,South America,Developing regions,3205.0
+22,Bosnia and Herzegovina,Europe,Southern Europe,Developed regions,21855.0
+23,Botswana,Africa,Southern Africa,Developing regions,396.0
+24,Brazil,Latin America and the Caribbean,South America,Developing regions,29659.0
+25,Brunei Darussalam,Asia,South-Eastern Asia,Developing regions,600.0
+26,Bulgaria,Europe,Eastern Europe,Developed regions,23310.0
+27,Burkina Faso,Africa,Western Africa,Developing regions,2043.0
+28,Burundi,Africa,Eastern Africa,Developing regions,8110.0
+29,Cabo Verde,Africa,Western Africa,Developing regions,201.0
+30,Cambodia,Asia,South-Eastern Asia,Developing regions,6538.0
+31,Cameroon,Africa,Middle Africa,Developing regions,16021.0
+32,Canada,Northern America,Northern America,Developed regions,20.0
+33,Central African Republic,Africa,Middle Africa,Developing regions,550.0
+34,Chad,Africa,Middle Africa,Developing regions,1653.0
+35,Chile,Latin America and the Caribbean,South America,Developing regions,21359.0
+36,China,Asia,Eastern Asia,Developing regions,659962.0
+37,"China, Hong Kong Special Administrative Region",Asia,Eastern Asia,Developing regions,9327.0
+38,"China, Macao Special Administrative Region",Asia,Eastern Asia,Developing regions,284.0
+39,Colombia,Latin America and the Caribbean,South America,Developing regions,72088.0
+40,Comoros,Africa,Eastern Africa,Developing regions,194.0
+41,Congo,Africa,Middle Africa,Developing regions,1686.0
+42,Costa Rica,Latin America and the Caribbean,Central America,Developing regions,4489.0
+43,Côte d'Ivoire,Africa,Western Africa,Developing regions,8291.0
+44,Croatia,Europe,Southern Europe,Developed regions,8001.0
+45,Cuba,Latin America and the Caribbean,Caribbean,Developing regions,20365.0
+46,Cyprus,Asia,Western Asia,Developing regions,1126.0
+47,Czech Republic,Europe,Eastern Europe,Developed regions,4192.0
+48,Democratic People's Republic of Korea,Asia,Eastern Asia,Developing regions,388.0
+49,Democratic Republic of the Congo,Africa,Middle Africa,Developing regions,25582.0
+50,Denmark,Europe,Northern Europe,Developed regions,3901.0
+51,Djibouti,Africa,Eastern Africa,Developing regions,1646.0
+52,Dominica,Latin America and the Caribbean,Caribbean,Developing regions,2470.0
+53,Dominican Republic,Latin America and the Caribbean,Caribbean,Developing regions,11193.0
+54,Ecuador,Latin America and the Caribbean,South America,Developing regions,12233.0
+55,Egypt,Africa,Northern Africa,Developing regions,72745.0
+56,El Salvador,Latin America and the Caribbean,Central America,Developing regions,54878.0
+57,Equatorial Guinea,Africa,Middle Africa,Developing regions,61.0
+58,Eritrea,Africa,Eastern Africa,Developing regions,10450.0
+59,Estonia,Europe,Northern Europe,Developed regions,935.0
+60,Ethiopia,Africa,Eastern Africa,Developing regions,35136.0
+61,Fiji,Oceania,Melanesia,Developing regions,20609.0
+62,Finland,Europe,Northern Europe,Developed regions,2781.0
+63,France,Europe,Western Europe,Developed regions,109091.0
+64,Gabon,Africa,Middle Africa,Developing regions,952.0
+65,Gambia,Africa,Western Africa,Developing regions,603.0
+66,Georgia,Asia,Western Asia,Developing regions,2068.0
+67,Germany,Europe,Western Europe,Developed regions,63912.0
+68,Ghana,Africa,Western Africa,Developing regions,26032.0
+69,Greece,Europe,Southern Europe,Developed regions,12410.0
+70,Grenada,Latin America and the Caribbean,Caribbean,Developing regions,9091.0
+71,Guatemala,Latin America and the Caribbean,Central America,Developing regions,19465.0
+72,Guinea,Africa,Western Africa,Developing regions,4891.0
+73,Guinea-Bissau,Africa,Western Africa,Developing regions,83.0
+74,Guyana,Latin America and the Caribbean,South America,Developing regions,75785.0
+75,Haiti,Latin America and the Caribbean,Caribbean,Developing regions,84813.0
+76,Honduras,Latin America and the Caribbean,Central America,Developing regions,7770.0
+77,Hungary,Europe,Eastern Europe,Developed regions,16822.0
+78,Iceland,Europe,Northern Europe,Developed regions,570.0
+79,India,Asia,Southern Asia,Developing regions,691904.0
+80,Indonesia,Asia,South-Eastern Asia,Developing regions,13150.0
+81,Iran,Asia,Southern Asia,Developing regions,175923.0
+82,Iraq,Asia,Western Asia,Developing regions,69789.0
+83,Ireland,Europe,Northern Europe,Developed regions,16964.0
+84,Israel,Asia,Western Asia,Developing regions,66508.0
+85,Italy,Europe,Southern Europe,Developed regions,22624.0
+86,Jamaica,Latin America and the Caribbean,Caribbean,Developing regions,106431.0
+87,Japan,Asia,Eastern Asia,Developed regions,27707.0
+88,Jordan,Asia,Western Asia,Developing regions,35406.0
+89,Kazakhstan,Asia,Central Asia,Developing regions,8490.0
+90,Kenya,Africa,Eastern Africa,Developing regions,17228.0
+91,Kiribati,Oceania,Micronesia,Developing regions,15.0
+92,Kuwait,Asia,Western Asia,Developing regions,2025.0
+93,Kyrgyzstan,Asia,Central Asia,Developing regions,2353.0
+94,Laos,Asia,South-Eastern Asia,Developing regions,1089.0
+95,Latvia,Europe,Northern Europe,Developed regions,2326.0
+96,Lebanon,Asia,Western Asia,Developing regions,115359.0
+97,Lesotho,Africa,Southern Africa,Developing regions,107.0
+98,Liberia,Africa,Western Africa,Developing regions,2759.0
+99,Libya,Africa,Northern Africa,Developing regions,4909.0
+100,Liechtenstein,Europe,Western Europe,Developed regions,40.0
+101,Lithuania,Europe,Northern Europe,Developed regions,2414.0
+102,Luxembourg,Europe,Western Europe,Developed regions,215.0
+103,Madagascar,Africa,Eastern Africa,Developing regions,2194.0
+104,Malawi,Africa,Eastern Africa,Developing regions,294.0
+105,Malaysia,Asia,South-Eastern Asia,Developing regions,24417.0
+106,Maldives,Asia,Southern Asia,Developing regions,30.0
+107,Mali,Africa,Western Africa,Developing regions,2188.0
+108,Malta,Europe,Southern Europe,Developed regions,1546.0
+109,Marshall Islands,Oceania,Micronesia,Developing regions,2.0
+110,Mauritania,Africa,Western Africa,Developing regions,1016.0
+111,Mauritius,Africa,Eastern Africa,Developing regions,15690.0
+112,Mexico,Latin America and the Caribbean,Central America,Developing regions,58712.0
+113,Monaco,Europe,Western Europe,Developed regions,29.0
+114,Mongolia,Asia,Eastern Asia,Developing regions,952.0
+115,Montenegro,Europe,Southern Europe,Developed regions,105.0
+116,Morocco,Africa,Northern Africa,Developing regions,72267.0
+117,Mozambique,Africa,Eastern Africa,Developing regions,160.0
+118,Myanmar,Asia,South-Eastern Asia,Developing regions,9245.0
+119,Namibia,Africa,Southern Africa,Developing regions,320.0
+120,Nauru,Oceania,Micronesia,Developing regions,18.0
+121,Nepal,Asia,Southern Asia,Developing regions,10222.0
+122,Netherlands,Europe,Western Europe,Developed regions,26884.0
+123,New Caledonia,Oceania,Melanesia,Developing regions,5.0
+124,New Zealand,Oceania,Australia and New Zealand,Developed regions,10386.0
+125,Nicaragua,Latin America and the Caribbean,Central America,Developing regions,12095.0
+126,Niger,Africa,Western Africa,Developing regions,952.0
+127,Nigeria,Africa,Western Africa,Developing regions,39732.0
+128,Norway,Europe,Northern Europe,Developed regions,2327.0
+129,Oman,Asia,Western Asia,Developing regions,224.0
+130,Pakistan,Asia,Southern Asia,Developing regions,241600.0
+131,Palau,Oceania,Micronesia,Developing regions,1.0
+132,Panama,Latin America and the Caribbean,Central America,Developing regions,3161.0
+133,Papua New Guinea,Oceania,Melanesia,Developing regions,64.0
+134,Paraguay,Latin America and the Caribbean,South America,Developing regions,1944.0
+135,Peru,Latin America and the Caribbean,South America,Developing regions,32652.0
+136,Philippines,Asia,South-Eastern Asia,Developing regions,511391.0
+137,Poland,Europe,Eastern Europe,Developed regions,139241.0
+138,Portugal,Europe,Southern Europe,Developed regions,74167.0
+139,Qatar,Asia,Western Asia,Developing regions,157.0
+140,North Korea,Asia,Eastern Asia,Developing regions,142581.0
+141,Republic of Moldova,Europe,Eastern Europe,Developed regions,15381.0
+142,Romania,Europe,Eastern Europe,Developed regions,93585.0
+143,Russia,Europe,Eastern Europe,Developed regions,63344.0
+144,Rwanda,Africa,Eastern Africa,Developing regions,6691.0
+145,Saint Kitts and Nevis,Latin America and the Caribbean,Caribbean,Developing regions,653.0
+146,Saint Lucia,Latin America and the Caribbean,Caribbean,Developing regions,4802.0
+147,Saint Vincent and the Grenadines,Latin America and the Caribbean,Caribbean,Developing regions,9707.0
+148,Samoa,Oceania,Polynesia,Developing regions,78.0
+149,San Marino,Europe,Southern Europe,Developed regions,5.0
+150,Sao Tome and Principe,Africa,Middle Africa,Developing regions,10.0
+151,Saudi Arabia,Asia,Western Asia,Developing regions,3425.0
+152,Senegal,Africa,Western Africa,Developing regions,7362.0
+153,Serbia,Europe,Southern Europe,Developed regions,1939.0
+154,Seychelles,Africa,Eastern Africa,Developing regions,1266.0
+155,Sierra Leone,Africa,Western Africa,Developing regions,3351.0
+156,Singapore,Asia,South-Eastern Asia,Developing regions,14579.0
+157,Slovakia,Europe,Eastern Europe,Developed regions,5963.0
+158,Slovenia,Europe,Southern Europe,Developed regions,523.0
+159,Somalia,Africa,Eastern Africa,Developing regions,42109.0
+160,South Africa,Africa,Southern Africa,Developing regions,40568.0
+161,Spain,Europe,Southern Europe,Developed regions,5018.0
+162,Sri Lanka,Asia,Southern Asia,Developing regions,148358.0
+163,State of Palestine,Asia,Western Asia,Developing regions,6512.0
+164,Sudan,Africa,Northern Africa,Developing regions,18506.0
+165,Suriname,Latin America and the Caribbean,South America,Developing regions,739.0
+166,Swaziland,Africa,Southern Africa,Developing regions,188.0
+167,Sweden,Europe,Northern Europe,Developed regions,5866.0
+168,Switzerland,Europe,Western Europe,Developed regions,15678.0
+169,Syrian Arab Republic,Asia,Western Asia,Developing regions,31485.0
+170,Tajikistan,Asia,Central Asia,Developing regions,503.0
+171,Thailand,Asia,South-Eastern Asia,Developing regions,9174.0
+172,The former Yugoslav Republic of Macedonia,Europe,Southern Europe,Developed regions,4637.0
+173,Togo,Africa,Western Africa,Developing regions,3545.0
+174,Tonga,Oceania,Polynesia,Developing regions,142.0
+175,Trinidad and Tobago,Latin America and the Caribbean,Caribbean,Developing regions,50016.0
+176,Tunisia,Africa,Northern Africa,Developing regions,17583.0
+177,Turkey,Asia,Western Asia,Developing regions,31781.0
+178,Turkmenistan,Asia,Central Asia,Developing regions,310.0
+179,Tuvalu,Oceania,Polynesia,Developing regions,8.0
+180,Uganda,Africa,Eastern Africa,Developing regions,3450.0
+181,Ukraine,Europe,Eastern Europe,Developed regions,51410.0
+182,United Arab Emirates,Asia,Western Asia,Developing regions,836.0
+183,United Kingdom,Europe,Northern Europe,Developed regions,551500.0
+184,United Republic of Tanzania,Africa,Eastern Africa,Developing regions,12496.0
+185,United States of America,Northern America,Northern America,Developed regions,241122.0
+186,Uruguay,Latin America and the Caribbean,South America,Developing regions,4715.0
+187,Uzbekistan,Asia,Central Asia,Developing regions,3368.0
+188,Vanuatu,Oceania,Melanesia,Developing regions,11.0
+189,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,South America,Developing regions,21267.0
+190,Vietnam,Asia,South-Eastern Asia,Developing regions,97146.0
+191,Western Sahara,Africa,Northern Africa,Developing regions,2.0
+192,Yemen,Asia,Western Asia,Developing regions,2985.0
+193,Zambia,Africa,Eastern Africa,Developing regions,1677.0
+194,Zimbabwe,Africa,Eastern Africa,Developing regions,8598.0
